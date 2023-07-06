@@ -10,3 +10,6 @@
 
 | PasswordGenerator | [PasswordGenerator](https://64a547c823069e0b5e966d95--frolicking-jalebi-90b7fd.netlify.app/) |
 
+
+| NotesApp | [NotesApp](https://64a652419bb8db3a5203387e--effulgent-moxie-b6c281.netlify.app/) |
+
