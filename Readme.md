@@ -16,3 +16,5 @@
 
 | QuoteGenerator | [Quotes](https://rainbow-valkyrie-e6c997.netlify.app/) |
 
+
+| QR Code Generator | [QR](https://precious-dodol-7b2407.netlify.app/) |
