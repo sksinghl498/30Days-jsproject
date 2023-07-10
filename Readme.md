@@ -20,3 +20,5 @@
 | QR Code Generator | [QR](https://precious-dodol-7b2407.netlify.app/) |
 
 | Toast Notification | [Toast](https://voluble-kitsune-adfaa0.netlify.app/) |
+
+| Music Player | [MusicPlayer](https://radiant-kheer-ae5a7f.netlify.app/) |
