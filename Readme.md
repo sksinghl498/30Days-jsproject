@@ -26,3 +26,7 @@
 | Music Player | [MusicPlayer](https://radiant-kheer-ae5a7f.netlify.app/) |
 
 | StopWatch | [Stopwatch](https://beamish-buttercream-078f70.netlify.app/) |
+
+| Calculator | [calculator](https://64acdaf5a4bb0034979d48b8--fascinating-quokka-bb46aa.netlify.app/) |
+
+| PopupMenu | [Popup](https://64ae706b82983507c2d0a11a--chimerical-trifle-aa6444.netlify.app/) |
