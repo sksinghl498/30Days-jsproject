@@ -30,3 +30,5 @@
 | Calculator | [calculator](https://64acdaf5a4bb0034979d48b8--fascinating-quokka-bb46aa.netlify.app/) |
 
 | PopupMenu | [Popup](https://64ae706b82983507c2d0a11a--chimerical-trifle-aa6444.netlify.app/) |
+
+| PasswordToggle | [Hide&showPassword](https://amazing-frangollo-4d28cb.netlify.app/) |
