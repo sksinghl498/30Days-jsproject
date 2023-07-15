@@ -37,3 +37,5 @@
 | DarkMode | [DarkMode](https://beamish-kitsune-735b60.netlify.app/) |
 
 | FormValidation | [FormValidation](https://sunny-pixie-9d3b14.netlify.app/) |
+
+| Image Gallery | [ImageGallery](https://genuine-phoenix-4b8c7d.netlify.app/) |
