@@ -39,3 +39,5 @@
 | FormValidation | [FormValidation](https://sunny-pixie-9d3b14.netlify.app/) |
 
 | Image Gallery | [ImageGallery](https://genuine-phoenix-4b8c7d.netlify.app/) |
+
+| EmailSubscription | [Emain](https://merry-licorice-06b9be.netlify.app/) |
