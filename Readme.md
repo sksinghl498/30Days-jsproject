@@ -41,3 +41,5 @@
 | Image Gallery | [ImageGallery](https://genuine-phoenix-4b8c7d.netlify.app/) |
 
 | EmailSubscription | [Emain](https://merry-licorice-06b9be.netlify.app/) |
+
+| Password Strength | [passwordStrength](https://astonishing-kleicha-4b41e6.netlify.app/) |
