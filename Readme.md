@@ -45,3 +45,5 @@
 | Password Strength | [passwordStrength](https://astonishing-kleicha-4b41e6.netlify.app/) |
 
 | Text To Speech | [TextToSpeech](https://meek-faun-8f4eb9.netlify.app/) |
+
+| Coming Soon | [SoonPage](https://remarkable-pasca-643e62.netlify.app/) |
