@@ -54,3 +54,5 @@
 
 
 | SelectMenu | [ SelectMenu ](https://64ba235b4e9d604bc9e00881--incomparable-platypus-2d4132.netlify.app/) |
+
+| ProgressBar | [ progressBar ](https://stirring-alpaca-395036.netlify.app/) |
