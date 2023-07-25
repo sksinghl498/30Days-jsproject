@@ -58,3 +58,5 @@
 | ProgressBar | [ progressBar ](https://stirring-alpaca-395036.netlify.app/) |
 
 | ProductPage | [ ProductPage ](https://whimsical-figolla-101e93.netlify.app/) |
+
+| CryptoPage | [ Crypto ](https://resplendent-strudel-4a462a.netlify.app/) |
