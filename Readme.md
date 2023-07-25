@@ -60,3 +60,5 @@
 | ProductPage | [ ProductPage ](https://whimsical-figolla-101e93.netlify.app/) |
 
 | CryptoPage | [ Crypto ](https://resplendent-strudel-4a462a.netlify.app/) |
+
+| DigitalClock | [ DigitalClock ](https://luminous-chimera-3ea255.netlify.app/) |
