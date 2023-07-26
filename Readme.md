@@ -62,3 +62,5 @@
 | CryptoPage | [ Crypto ](https://resplendent-strudel-4a462a.netlify.app/) |
 
 | DigitalClock | [ DigitalClock ](https://luminous-chimera-3ea255.netlify.app/) |
+
+| Drag&Drop | [ Drag&Drop ](https://shimmering-granita-acd182.netlify.app/) |
